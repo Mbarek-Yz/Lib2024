@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
     spec.name                     = 'Lib2024'
     spec.version                  = '1.0'
     spec.homepage                 = 'https://github.com/Mbarek-Yz'
-    spec.source                   = { :git=> 'https://github.com/Mbarek-Yz/KmmGitLib.git', :tag => '1.0.0'}
+    spec.source                   = { :git=> 'https://github.com/Mbarek-Yz/Lib2024.git'}
     spec.authors                  = 'Yazan MBAREK'
     spec.license                  = ''
     spec.summary                  = 'Some description for the Shared Module'
